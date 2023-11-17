@@ -9,7 +9,7 @@ const questions = [
     {   name: `application_name`,
         message: `Project Title`,
         type: `input`,
-    },
+    }, 
 
    
     {   name: `description`,
