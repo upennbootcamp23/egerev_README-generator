@@ -49,7 +49,7 @@ function renderLicenseSection(license) {
  * @returns the generated README
  */
 function generateMarkdown(response) {
-  return ` # ${data.application_name}
+  return ` # ${response.application_name}
  
   
   > ${renderLicenseBadge(response.license)}
