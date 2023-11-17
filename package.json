@@ -1,0 +1,14 @@
+{
+  "name": "egerev_readme-generator",
+  "version": "1.0.0",
+  "description": "This application creates a high-quality README given user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Egerev",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
