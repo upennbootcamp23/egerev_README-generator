@@ -81,7 +81,7 @@ function generateMarkdown(response) {
 
   ## Questions 
   > [My Github Portfolio](https://github.com/${response.github}) <br>
-  > Contact me at ${response.email})
+  > Contact me at ${response.email}
 
   `;
 }
