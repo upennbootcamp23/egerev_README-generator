@@ -1,6 +1,7 @@
 # Alex Egerev's README Generator Webpage
 
-[insert images here]
+![image](https://github.com/upennbootcamp23/egerev_README-generator/assets/143010411/e1a25a25-ca9a-441a-a8d5-cec03d79a4e7)
+
 
 ## Description
 
@@ -36,7 +37,7 @@ Other than that, I can safely say that the content of this project is my own, or
 Please refer to the LICENSE in the repo.
 
 ## README
-Because the README is not deployed on GitHub Pages, I am providing the link for an example README file.   <https://github.com/upennbootcamp23/egerev_README-creator/blob/main/EXAMPLE.md>
+Because the README is not deployed on GitHub Pages, I am providing the link for an example README file.  <https://github.com/upennbootcamp23/egerev_README-generator/blob/main/EXAMPLE.md >
 
 ## Demonstration
 Because the README is not deployed on GitHub Pages, I am providing the link on how I created the README file. <https://drive.google.com/file/d/1CtOuG5Va7xwueCEqug2pkLgTh8wcP8lI/view>
